@@ -44,14 +44,14 @@ __Bold__
 
 
 # 목차 사용하는 방법
-[1.목차-1](#목차-1)<br>
-[2.목차-2](#목차-2)<br>
+[1.접었다 펴기](#접었다-펴기)<br>
+[2.code block](#code-block)<br>
 [3.인용문](#인용문)<br>
 [4.밑줄치는 방법](#밑줄치는-방법)<br>
 [5.표](#표)
 
  
-### 목차 1
+### 접었다 펴기
 <details>
 <summary>CLICK ME</summary>
  각주-각주
@@ -66,14 +66,16 @@ code는 `백탭 3개 처음, 끝에 사용
 <br>
 
 
-### 목차-2
-
+### code block
 
 <!-- <div align=center> 가운데 정렬-->
-	<h3>Tech Stack 🔥</h3>
+#### Tech Stack 🔥
 <!-- </div> -->
-	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+<div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
+
+</div>
 
 <br>
 <br>
@@ -105,6 +107,12 @@ ___
 <br>
 
 ### 표
+
+| 표제 1 | 표제 2 | 표제 3 | 표제4 |
+|---|:---:|:---:|---:|
+| `short code` | 내용 2 | 내용 3 | 내용 4 |
+
+
 
 | 값 | 의미 | 기본값 |
 |---|:---:|---:|
