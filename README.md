@@ -8,16 +8,14 @@
 ###### Header 6
 
 # 강조
-_Underscore_
-* 
-두껍게: __언더바(underscore)__ or **별표(asterisks)**
-취소선: ~물결(tilde)~
-
-
-
-
-Introduction OS
+_Underbar_
+*Underbar* 
+__Bold__
+**Bold**
+~Text~
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt accusamus eius vel molestias iusto provident nulla deleniti beatae consectetur doloribus quasi, architecto similique, odio blanditiis aut voluptatibus, ab mollitia quisquam!</p>
 
-#introduction-os
+(title)
+[#### title]
+
