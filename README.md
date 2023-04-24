@@ -23,21 +23,32 @@
 <br>
 
 # 강조
-_Underbar_
-*Underbar* 
-__Bold__
-**Bold**
+_Underbar_  
+*Underbar* <br>
+__Bold__  
+**Bold**<br>
 ~Text~
 
+# 띄어쓰기
+동해물과 백두산이 마르고 닳도록  
+하느님이 보우하사 우리나라  만세<br>  <!--띄어쓰기 2번-->
+무궁화 삼천리 화려 강산<br>
+대한 사람 대한으로 길이 보전하세
+
+
 <br>
 <br>
 
 
-## 목차 사용하는 방법
-[1.목차-1](#목차-1)
-[2.목차-2](#목차-2)
+# 목차 사용하는 방법
+[1.목차-1](#목차-1)<br>
+[2.목차-2](#목차-2)<br>
+[3.인용문](#인용문)<br>
+[4.밑줄치는 방법](#밑줄치는-방법)<br>
+[5.표](#표)
+
  
-## 목차 1
+### 목차 1
 <details>
 <summary>CLICK ME</summary>
  각주-각주
@@ -54,35 +65,19 @@ code는 `백탭 3개 처음, 끝에 사용
 <br>
 
 
-## 목차-2
+### 목차-2
 
 
-<div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-</div>
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<!-- <div align=center> 가운데 정렬-->
+	<h3>Tech Stack 🔥</h3>
+<!-- </div> -->
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
-	<br>
-	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
-	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-</div>
 
 <br>
 <br>
 
-인용문(blockQuote)
-> 남의 말이나 글에서 직접 또는 간접으로 따온 문장.
-> _(네이버 국어 사전)_
-
-
- <br>
-<br>
- 
+### 인용문
 
 > 인용문 1
 > 
@@ -91,7 +86,10 @@ code는 `백탭 3개 처음, 끝에 사용
 > > > 중첩인용문 3
 
 
+<br>
+<br>
 
+### 밑줄치는 방법
 
 ---
 (Hyphens)
@@ -102,12 +100,11 @@ code는 `백탭 3개 처음, 끝에 사용
 ___
 (Underscores)
 
-
-동해물과 백두산이 마르고 닳도록  
-하느님이 보우하사 우리나라 만세  <!--띄어쓰기 2번-->
-무궁화 삼천리 화려 강산<br>
-대한 사람 대한으로 길이 보전하세
 <br>
+<br>
+
+### 표
+
 | 값 | 의미 | 기본값 |
 |---|:---:|---:|
 | `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
