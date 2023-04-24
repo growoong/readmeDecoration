@@ -12,8 +12,8 @@
 
 1. 순서 리스트 1
 2. 띄어쓰기 필수
-  - 리스트 1
-  - 리스트 2
+  _ 리스트 1
+  _ 리스트 2
  
 - 순서 없는 리스트
   - 띄어쓰기는 2번
@@ -52,7 +52,7 @@ __Bold__
 [5.표](#표)
 
  
-### 접었다 펴기
+## 접었다 펴기
 <details>
 <summary>CLICK ME</summary>
  각주-각주
@@ -65,14 +65,15 @@ __Bold__
 <br>
 
 
-### code block
+## code block
 
 <!-- <div align=center> 가운데 정렬-->
-#### Tech Stack 🔥
+
 <!-- </div> -->
 ```
 code는 `백탭 3개 처음, 끝에 사용
 ```
+### Badge
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /><br>
@@ -90,7 +91,7 @@ code는 `백탭 3개 처음, 끝에 사용
 <br>
 <br>
 
-### 인용문
+## 인용문
 
 > 인용문 1
 > 
@@ -102,7 +103,7 @@ code는 `백탭 3개 처음, 끝에 사용
 <br>
 <br>
 
-### 밑줄치는 방법
+## 밑줄치는 방법
 
 ---
 --하이픈 3개
@@ -116,7 +117,7 @@ __언더바 3개
 <br>
 <br>
 
-### 표
+## 표
 
 | 표제 1 | 표제 2 | 표제 3 | 표제4 |
 |---|:---:|:---:|---:|
