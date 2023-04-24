@@ -59,9 +59,7 @@ __Bold__
 
 
 
-```
-code는 `백탭 3개 처음, 끝에 사용
-```
+
 <br>
 <br>
 
@@ -71,6 +69,9 @@ code는 `백탭 3개 처음, 끝에 사용
 <!-- <div align=center> 가운데 정렬-->
 #### Tech Stack 🔥
 <!-- </div> -->
+```
+code는 `백탭 3개 처음, 끝에 사용
+```
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
