@@ -79,8 +79,16 @@ code는 `백탭 3개 처음, 끝에 사용
     <img src="https://img.shields.io/badge/Adobe-000000?style=flat&logo=Adobe&logoColor=white" />
   
 </div>
+ ```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브이름&layout=compact">
+```
   <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=growoong&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=growoong&layout=compact"><br>
+ </div>
+  ```
+<img src="https://github-readme-stats.vercel.app/api?username=깃허브이름&show_icons=true">
+```
+   <div>
 <img src="https://github-readme-stats.vercel.app/api?username=growoong&show_icons=true">
 </div>
 
