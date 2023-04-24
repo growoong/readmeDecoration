@@ -1,6 +1,17 @@
 
+# Title 종류
 # Header 1
 ## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+# 강조
+_Underscore_
+* 
+두껍게: __언더바(underscore)__ or **별표(asterisks)**
+취소선: ~물결(tilde)~
 
 
 
