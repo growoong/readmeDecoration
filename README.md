@@ -1,29 +1,23 @@
 
-# Title 종류
 # Header 1
 ## Header 2
 ### Header 3
 #### Header 4
 ##### Header 5
-###### Header 6
+###### 제목은 6개까지 가능 #의 개수로 구분
 
 <br>
 <br>
 
-1. 순서가 필요한 목록
-2. 순서가 필요한 목록
-    - 순서가 필요하지 않은 목록(서브)
-    - 순서가 필요하지 않은 목록(서브) 
-3. 순서가 필요한 목록
-    1. 순서가 필요한 목록(서브)
-    1. 순서가 필요한 목록(서브)
-4. 순서가 필요한 목록
+1. 순서 리스트 1
+2. 띄어쓰기 필수
+  - 리스트 1
+  - 리스트 2
  
-- 순서가 필요하지 않은 목록에 사용 가능한 기호
-  - 대쉬(hyphen)
-  * 별표(asterisks)
-  + 더하기(plus sign)
-
+- 순서 없는 리스트
+  - 띄어쓰기는 2번
+  + 플러스기호,
+  * 별도 가능
 
 <br>
 <br>
@@ -35,21 +29,33 @@ __Bold__
 **Bold**
 ~Text~
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt accusamus eius vel molestias iusto provident nulla deleniti beatae consectetur doloribus quasi, architecto similique, odio blanditiis aut voluptatibus, ab mollitia quisquam!</p>
+<br>
+<br>
 
-목차
-[1.개발을 하고 싶어요](#개발을-하고-싶어요)
-[2.코딩을 잘하고 싶어요](#coding을-잘하고-싶어요)
+
+## 목차 사용하는 방법
+[1.목차-1](#목차-1)
+[2.목차-2](#목차-2)
  
-## 개발을 하고 싶어요
-<details><summary>CLICK ME</summary>
+## 목차 1
+<details>
+<summary>CLICK ME</summary>
  각주-각주
-</details>  
-## Coding을 잘하고 싶어요
+</details> 
+
+
+<br>
+<br>
 
 ```
-code
+code는 `백탭 3개 처음, 끝에 사용
 ```
+<br>
+<br>
+
+
+## 목차-2
+
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -65,50 +71,25 @@ code
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 </div>
+
 <br>
-<div align=center>
-	<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
-</div>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
-<div align=center>
-	<a href="https://yermi.co.kr">
-		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
-	</a>
-	<a href="https://yermi.tistory.com">
-		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
-</div>
 <br>
-<div align=center>
-	
-![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc)
-</div>
-
-
-
-
 
 인용문(blockQuote)
 > 남의 말이나 글에서 직접 또는 간접으로 따온 문장.
 > _(네이버 국어 사전)_
+
+
+ <br>
+<br>
  
- 
-BREAK!
-> 인용문을 작성하세요!
+
+> 인용문 1
 > 
-> > 중첩된 인용문(nested blockquote)을 만들 수 있습니다.
-> > 
-> > > 중중첩된 인용문 1  
-> > > 중중첩된 인용문 2  
-> > > 중중첩된 인용문 3
+> > 중첩인용문 2
+> > > 중첩인용문 3
+> > > 중첩인용문 3
+
 
 
 
