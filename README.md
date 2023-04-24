@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=ReadMeArchive&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ReadMeArchive&fontSize=80&fontAlign=right" />
 
 # Header 1
 ## Header 2
